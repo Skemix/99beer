@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+	background-image: url(alus.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#lyrics-container {
+    max-width: 600px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+	background-color: white; /* Set background color to white */
+    margin: 20px auto;beer 
+}
